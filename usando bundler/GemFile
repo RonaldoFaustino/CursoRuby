@@ -1,0 +1,16 @@
+source 'https://rubygems.org'
+
+gem 'lerolero_generator'
+gem 'cpf_utils'
+
+# C:\qaninja\Modulo\usando bundler (master)
+# λ bundler
+# Fetching gem metadata from https://rubygems.org/..
+# Resolving dependencies...
+# Using bundler 1.16.1
+# Using cpf_utils 1.3.0
+# Using lerolero_generator 1.0.1
+# Bundle complete! 2 Gemfile dependencies, 3 gems now installed.
+# Use `bundle info [gemname]` to see where a bundled gem is installed.
+
+# C:\qaninja\Modulo\usando bundler (master)
