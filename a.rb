@@ -8,3 +8,5 @@ module A
         puts "A2"
     end
 end
+
+#modulo
